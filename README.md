@@ -10,7 +10,7 @@ npm run start:dev
 curl localhost:3000/test-res-bug -v
 ```
 
-NestJS 8
+NestJS 9
 
 ```sh
 cd nestjs-9
